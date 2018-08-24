@@ -2766,3 +2766,27 @@
   width:393px;
   word-wrap:break-word;
 }
+#u506_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:65px;
+  height:25px;
+}
+#u506 {
+  border-width:0px;
+  position:absolute;
+  left:966px;
+  top:1127px;
+  width:64px;
+  height:24px;
+}
+#u506_text {
+  border-width:0px;
+  position:absolute;
+  left:2px;
+  top:4px;
+  width:60px;
+  word-wrap:break-word;
+}
