@@ -97,6 +97,8 @@
   font-style:normal;
   color:rgba(51, 51, 51, 0.647058823529412);
 }
+.snapshot {
+}
 .sticky_1 {
   text-align:left;
 }
@@ -181,6 +183,8 @@
   font-size:14px;
 }
 .line {
+}
+.arrow {
 }
 .horizontal_line {
 }
